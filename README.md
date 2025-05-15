@@ -42,7 +42,7 @@ TOKEN_SECRET=tu_token_secret_x
 1. Clona el repositorio:
 
 ```bash
-git clone https://github.com/tuusuario/zyconauth.git
+git clone https://github.com/atrox39/ZycoNauth
 cd zyconauth
 ```
 
